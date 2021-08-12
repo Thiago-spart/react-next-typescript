@@ -313,10 +313,10 @@
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.0.6.tgz#023d72a5c4531b4ce204528971700a78a85a0c50"
   integrity sha512-Myxw//kzromB9yWgS8qYGuGVf91oBUUJpNvy5eM50sqvmKLbKjwLxohJnkWGTeeI9v9IBMtPLxz5Gc60FIfvCA==
 
-"@techmmunity/eslint-config@^1.3.6":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@techmmunity/eslint-config/-/eslint-config-1.4.0.tgz#d60d7c8a1e0e8eb405aad372216a9ad7024274b7"
-  integrity sha512-T6vA8HluMtNQvJ61qRZkhYM8eGIwuveeHlMBJBFtIgNqUOxi7mgyOBcJEXnui8Rpvw6qlmjn0xeV66Mx0bwaTQ==
+"@techmmunity/eslint-config@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@techmmunity/eslint-config/-/eslint-config-4.0.0.tgz#54ee1926aa6058d51838d89af7867f41ac6e95a9"
+  integrity sha512-4Gau/00pPvQnq8Wz0f82+CEo0zp5JqeFPuT72gMQdXX4w6SfNwxzqyHpX1Bh1zoK6Ola9R0pAN9rlGXCCtGHtw==
   dependencies:
     "@typescript-eslint/parser" "^4.25.0"
     eslint-config-prettier "^8.3.0"
